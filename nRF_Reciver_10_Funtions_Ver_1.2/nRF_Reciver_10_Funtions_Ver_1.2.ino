@@ -1,8 +1,4 @@
-/*Peter Rhoades©:
-Sunday 06/02/22:
-nRF Reciver 10 Funtions®
-06/02/22 Stop command 11 added:
- 
+/*
  nRF Tranciver 
   1 = GRN  Black   
   2 = 3.3v Red

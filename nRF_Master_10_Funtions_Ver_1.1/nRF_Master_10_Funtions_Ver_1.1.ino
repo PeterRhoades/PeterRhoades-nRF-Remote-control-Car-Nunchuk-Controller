@@ -1,7 +1,7 @@
-/*Peter Rhoades©:
-Sunday 06/02/22:
-nRF Reciver 10 Funtions®                             
-06/02/22 Stop command 11 added.                               
+/*                          
+
+Nunchuk info inc library https://create.arduino.cc/projecthub/infusion/using-a-wii-nunchuk-with-arduino-597254
+
                                
                                    nRF Tranciver 
  msg[0] 1 = Left                  1 = GRN  Black   
@@ -39,8 +39,7 @@ void setup() {
 
 void loop() {
  (nunchuk_read()); 
- 
- delay(50);
+  delay(50);
  
  if (nunchuk_joystickX() < -120) //Joystick Left: 
   {
