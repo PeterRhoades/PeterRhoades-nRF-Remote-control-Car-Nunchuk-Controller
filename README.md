@@ -5,7 +5,7 @@ nunchuk_accelY() Nunchuk Forward Range -1 to -200
 
 nunchuk_accelY() Nunchuk Back  Range  1 to 200  
 
-nunchuk_accelX()  Nunchuk Right Range 1 to  00
+nunchuk_accelX()  Nunchuk Right Range 1 to  200
 
 nunchuk_accelX()  Nunchuk Left Range -1 to -200
 
@@ -48,4 +48,4 @@ UNO:
 CSN →   8
 MISO →  13
 MOSI →  11
-SCK   → 13
+SCK   → 12
